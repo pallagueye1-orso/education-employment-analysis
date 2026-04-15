@@ -5,7 +5,7 @@ A data analysis project exploring how education level influences employment and 
 Analyze the impact of education level on employment and unemployment.
 
 ## Data
-- ILO datasets (employment & unemployment by education level)
+- data/ilo_cleaned_final.csv
 
 ## Tools
 - Python (pandas, matplotlib)
