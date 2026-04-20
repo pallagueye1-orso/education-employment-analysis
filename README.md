@@ -22,4 +22,4 @@ Analyze the impact of education level on employment and unemployment.
 
 ## Team
 - Palla Gueye
-- Karissy Zeinab Cisse
+- Karissy  Cisse
