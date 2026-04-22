@@ -1,0 +1,19 @@
+# Projet : Éducation et Emploi dans le monde — Analyse ILO
+# M1 BIDABI — Université Sorbonne Paris Nord
+#
+# Installation : pip install -r requirements.txt
+
+# Manipulation et analyse de données
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Cartes géographiques
+geopandas>=0.14.0
+
+# Notebooks interactifs
+jupyter>=1.0.0
+ipykernel>=6.0.0
